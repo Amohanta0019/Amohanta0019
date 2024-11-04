@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amohanta0019&label=Profile%20views&color=0e75b6&style=flat" alt="amohanta0019" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Frontend Projects<br>👯 I’m looking to collaborate on Web-Dev Projects<br>🤝 I’m looking for help with making short motivational content for social media<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Java<br>⚡ Fun fact :  While I'm serious about my coding, I find joy in the challenge of turning complex problems into elegant solutions!<br>📫 How to reach me **mohantaahana444@gmail.com**
+🔭 I’m currently working on Frontend Projects<br>👯 I’m looking to collaborate on Web-Dev Projects<br>🤝 I’m looking for help with making short motivational content for social media<br>🌱 I’m currently learning AI-ML👾🤖<br>💬 Ask me about Java<br>⚡ Fun fact :  While I'm serious about my coding, I find joy in the challenge of turning complex problems into elegant solutions!<br>📫 How to reach me **mohantaahana444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
